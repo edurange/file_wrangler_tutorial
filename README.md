@@ -1,2 +1,3 @@
 # file_wrangler_tutorial
-Codelabs for file wrangler
+
+https://edurange.github.io/file_wrangler_tutorial/
